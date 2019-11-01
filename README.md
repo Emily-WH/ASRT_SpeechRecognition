@@ -111,6 +111,8 @@ Python的依赖库
 * urllib
 
 ## Data Sets 数据集
+数据集简介 
+https://blog.csdn.net/sailist/article/details/95751825
 * **清华大学THCHS30中文语音数据集**
 
   data_thchs30.tgz 
